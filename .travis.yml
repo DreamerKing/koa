@@ -4,8 +4,6 @@ node_js:
   - 4
   - 3
   - 2
-  - 1
-  - 0.12
 before_script:
   - sudo apt-get install build-essential libssl-dev git
   - git clone https://github.com/wg/wrk.git
