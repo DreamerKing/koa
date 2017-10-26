@@ -4,6 +4,8 @@
   [![NPM version][npm-image]][npm-url]
   [![build status][travis-image]][travis-url]
   [![Test coverage][coveralls-image]][coveralls-url]
+  
+  [![Build Status](https://travis-ci.org/DreamerKing/koa.svg?branch=master)](https://travis-ci.org/DreamerKing/koa)
 
   Expressive HTTP middleware for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream. Koa's use of generators also greatly increases the readability and robustness of your application.
 
